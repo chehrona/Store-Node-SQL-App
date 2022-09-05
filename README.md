@@ -63,11 +63,11 @@ This file allows for the user to see profits made from the sales and add new dep
 
 <img width="460" alt="Screen Shot 2022-09-05 at 6 35 31 PM" src="https://user-images.githubusercontent.com/54600544/188517869-363e5177-96d0-4098-8ab2-8fd134b68251.png">
 
+<img width="870" alt="Screen Shot 2022-09-05 at 6 36 53 PM" src="https://user-images.githubusercontent.com/54600544/188517953-531b0e07-922f-47f9-85f5-01f29e095af9.png">
+
 <img width="460" alt="Screen Shot 2022-09-05 at 6 38 19 PM" src="https://user-images.githubusercontent.com/54600544/188517908-be3ee948-41fb-45ed-a8b5-64df8ec4b807.png">
 
 2. Add department prompts the user to give name and initial costs. 
-
-<img width="870" alt="Screen Shot 2022-09-05 at 6 36 53 PM" src="https://user-images.githubusercontent.com/54600544/188517953-531b0e07-922f-47f9-85f5-01f29e095af9.png">
 
 <img width="460" alt="Screen Shot 2022-09-05 at 6 37 23 PM" src="https://user-images.githubusercontent.com/54600544/188517964-60dffeea-5d5a-4fc2-861a-751e0d7ccf09.png">
 
