@@ -2,7 +2,7 @@
 
 This app unitlizes MySQL database and Node.js to add, retrieve, delete and update tables within the database as a customer/manager/supervisor.
 
-### ----------------------------------------------- Bamazon Customer View ---------------------------------------------------
+### ------------------------------------ Bamazon Customer View ----------------------------------------
 
 The customer file allows to see the table with the current items available for sale and their prices. 
 
@@ -27,7 +27,7 @@ Once the order is completed, the purchased amount is subtracted from the invento
 <img width="509" alt="Screen Shot 2022-09-05 at 6 13 44 PM" src="https://user-images.githubusercontent.com/54600544/188516662-fd5ea3d6-8f5d-4129-a573-bc30702d7f4b.png">
 <img width="509" alt="Screen Shot 2022-09-05 at 6 22 27 PM" src="https://user-images.githubusercontent.com/54600544/188517131-75b12ef3-5e8c-409d-8a6d-ab9f11147901.png">
 
-### ---------------------------------------------- Bamazon Manager View -----------------------------------------------
+### ----------------------------------- Bamazon Manager View ------------------------------------
 
 The manager file allows for the user to see all the items for sale, plus the stock quantity for each item. Also, view items low in stock, add more to the item quantities or add items for sale. 
 
@@ -55,7 +55,7 @@ The manager file allows for the user to see all the items for sale, plus the sto
 
 <img width="520" alt="Screen Shot 2022-09-05 at 6 29 52 PM" src="https://user-images.githubusercontent.com/54600544/188517541-09f65333-8cb1-4c2c-a183-0f637ae9317d.png">
 
-### ------------------------------------------------- Bamazon Supervisor View ---------------------------------------------------
+### ------------------------------------ Bamazon Supervisor View -----------------------------------------
 
 This file allows for the user to see profits made from the sales and add new departments.
 
