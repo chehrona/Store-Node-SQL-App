@@ -99,7 +99,7 @@ let completesOrder = function(id, amount) {
   });
 }
 
-let updatesStock = function(id, left) {
+let updatesStock = function(id, left, profit) {
   connection.query("UPDATE products SET ? WHERE ?", [
     {
         stock_quantity: left,
